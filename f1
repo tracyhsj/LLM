@@ -15,4 +15,4 @@ Interpreter: python 3.10.  (/Users/sh4355/desktop/miniconda3/bin/python3)
 export PATH="/Users/sh4355/desktop/miniconda3/bin":$PATH
 Pip install regex, icecream, pandas,numpy, torch, transformers, tabulate ,openai
 
-python main_mpi.py --config=config/order-symmetry/GPT/non-index.yaml
+python main_mpi.py --config=config/Constraint/order-symmetry/GPT/non-index.yaml
