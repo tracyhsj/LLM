@@ -3,14 +3,14 @@ https://docs.conda.io/en/latest/miniconda.html
 
 
 bash Miniconda3-latest-MacOSX-x86_64.sh
-Change location: /Users/yc3740/desktop/miniconda3
+Change location: /Users/sh4355/desktop/miniconda3
 
 bash
- export PATH="/Users/yc3740/desktop/miniconda3/bin":$PATH
+ export PATH="/Users/sh4355/desktop/miniconda3/bin":$PATH
 conda --version
 conda install python=3.10
 
 Vs code:
-Interpreter: python 3.10.  (/Users/yc3740/desktop/miniconda3/bin/python3)
-export PATH="/Users/yc3740/desktop/miniconda3/bin":$PATH
+Interpreter: python 3.10.  (/Users/sh4355/desktop/miniconda3/bin/python3)
+export PATH="/Users/sh4355/desktop/miniconda3/bin":$PATH
 Pip install regex, icecream, pandas,numpy, torch, transformers, tabulate 
